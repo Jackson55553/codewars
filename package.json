@@ -1,11 +1,19 @@
 {
-  "name": "codewars",
-  "version": "1.0.0",
-  "description": "",
-  "main": "test.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "codewars",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "test.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@eslint/js": "^9.10.0",
+        "eslint": "^9.10.0",
+        "eslint-plugin-react": "^7.36.1",
+        "globals": "^15.9.0",
+        "typescript-eslint": "^8.5.0"
+    }
 }
