@@ -21,10 +21,10 @@ console.log(
         [3, 8],
     ])
 );
-console.log(
-    determinant([
-        [2, 4, 2],
-        [3, 1, 1],
-        [1, 2, 0],
-    ])
-);
+// console.log(
+//     determinant([
+//         [2, 4, 2],
+//         [3, 1, 1],
+//         [1, 2, 0],
+//     ])
+// );
