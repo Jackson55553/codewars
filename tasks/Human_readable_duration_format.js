@@ -1,3 +1,4 @@
+// 4kyu
 function formatDuration(seconds) {
     if (!seconds) {
         return "now";
